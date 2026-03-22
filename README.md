@@ -36,5 +36,8 @@ Dashboarding: Crafted a high-fidelity Tableau dashboard with a focus on "Minimal
 
 💡 Key Insights
 Recovery Lag: Demonstrated that while GDP often recovers within 2 years, Unemployment rates (ILO) take an average of 5 years to return to pre-crisis levels.
+## 📊 Interactive Dashboard
+https://public.tableau.com/views/GlobalEconomicShockSimulator/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+*Click the image above to explore the interactive dashboard.*
 
 Decision Resonance: Users learn that "Reducing Expenses" at a micro-level can sometimes accelerate a "Global Liquidity Trap" at the macro-level.
